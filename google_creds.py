@@ -41,7 +41,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# https://console.cloud.google.com/home/dashboard
-# https://discovery.googleapis.com/discovery/v1/apis
-# https://googleapis.github.io/google-api-python-client/docs/dyn
 
